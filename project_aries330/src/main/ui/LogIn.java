@@ -1,7 +1,5 @@
 package ui;
 
-//shamelessly quoting from: https://www.onlinetutorialspoint.com/java/java-swing-login-example.html
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
