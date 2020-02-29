@@ -5,5 +5,5 @@
 
 
 
-(This project was made in part of a Software Construction course CPSC 210 during 2019S2 term)
+(This project was build in part of a Software Construction course CPSC 210 during 2019S2 term)
 
