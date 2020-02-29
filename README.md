@@ -3,7 +3,6 @@
 - Created in Java through a JUnit Test Driven Development. APIs were included for the daily currency conversions. JSON parsing and GUIs were implemented as well. 
 - OOP techniques were included, such as class hierarchy, abstraction, try/catch exceptions, and File I/O.
 
-
-
+No re-distribution of any part in the code is allowed, unless there is consent from the owner of this project.
 (This project was build in part of a Software Construction course CPSC 210 during 2019S2 term)
 
